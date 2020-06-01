@@ -1,8 +1,8 @@
 # IBM-Coursera-Machine-Learning-With-Python-final-project
 Final project of IBM's course https://www.coursera.org/learn/machine-learning-with-python on Coursera
 
-In this project we have load a historical dataset from previous loan applications, clean the data, and apply different classification algorithm on the data.
-We have use the following algorithms to build our models:
+In this project I have load a historical dataset from previous loan applications, clean the data, and apply different classification algorithm on the data.
+I used the following algorithms to build the models:
 
 - k-Nearest Neighbour
 - Decision Tree
