@@ -1,4 +1,4 @@
-# IBM-Coursera-Machine-Learning-With-Python-final-project
+# The Best Classifier Project 
 Final project of IBM's course https://www.coursera.org/learn/machine-learning-with-python on Coursera
 
 In this project I have load a historical dataset from previous loan applications, clean the data, and apply different classification algorithm on the data.
